@@ -1,33 +1,6 @@
-# Hi there, I'm Akhil Bonthinayanivari
-
-**Full-Stack & AI Engineer | Data Engineer | Open Source Enthusiast**
-
----
-
-## About Me
-
-Passionate Full-Stack and AI Engineer building intelligent apps, data pipelines, and AI products.
-
-- Currently working at **DriverAI** building AI-powered product intelligence systems
-- Passionate about **LLMs, Generative AI, and Knowledge Graphs**
-- Building tools at the intersection of **AI and real-world applications**
-- Strong background in **Data Engineering** - pipelines, warehousing, and real-time streaming
-- Deepening expertise in **agentic AI workflows**
-- Based in **India** | Reach me: akhilme008@gmail.com
-
----
-
-## Tech Stack
-
-**Languages:** Python | TypeScript | JavaScript | SQL
-
-**AI/ML:** LLMs | Claude API | PyTorch | Graph Neural Networks | Generative AI
-
-**Data Engineering:** Apache Spark | Apache Kafka | PostgreSQL | dbt | ETL Pipelines
-
-**Web & Cloud:** React | Node.js | Docker | AWS | REST APIs
-
----
+<p align="center">
+  <img src="./profile.svg" alt="Akhil Bonthinayanivari — devos profile card" width="860"/>
+</p>
 
 ## Featured Projects
 
