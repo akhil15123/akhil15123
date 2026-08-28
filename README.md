@@ -5,6 +5,10 @@
   </picture>
 </a>
 
+<p align="center">
+  <img src="assets/ai-portfolio-hero.png" alt="A luminous AI core connecting Python data pipelines, infrastructure, and a knowledge graph" width="100%">
+</p>
+
 <h1 align="center">AI systems, built in Python.</h1>
 
 <p align="center">
@@ -20,6 +24,13 @@
 </p>
 
 I'm an AI and Python engineer building practical intelligent systems: research agents, retrieval pipelines, graph ML, structured LLM workflows, and the data infrastructure behind them. I care about outputs that are explainable, testable, and useful beyond a demo.
+
+<!-- portfolio-showcase:start -->
+<p align="center">
+  <img src="docs/showcase.svg" alt="AI engineering portfolio synthetic product showcase" width="100%">
+</p>
+<p align="center"><sub><strong>Portfolio preview:</strong> all names, records, metrics, and scenarios shown above are synthetic. No real user or customer data is included.</sub></p>
+<!-- portfolio-showcase:end -->
 
 ### AI + Python lab
 
